@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>PAXHL Recruitment Agency</title>
+        <link>https://www.paxhl.com</link>
+        <description>Connecting Google Ads Manager Top talent with leading business and companies in the USA.</description>
+        <language>en-us</language>
+        <item>
+            <title>Job Matching Services</title>
+            <link>https://www.paxhl.com/services#job-matching</link>
+            <description>We match candidates with the right job opportunities, ensuring a perfect fit for your business needs.</description>
+            <pubDate>Mon, 21 Jul 2024 10:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Google Ads Expertise</title>
+            <link>https://www.paxhl.com/services#google-ads-expertise</link>
+            <description>Specializing in finding candidates with expertise in managing Google Ads platforms.</description>
+            <pubDate>Mon, 21 Jul 2024 10:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Virtual Assistance</title>
+            <link>https://www.paxhl.com/services#virtual-assistance</link>
+            <description>Providing general virtual assistance with highly skilled Filipino manpower.</description>
+            <pubDate>Mon, 21 Jul 2024 10:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Career Advice</title>
+            <link>https://www.paxhl.com/services#career-advice</link>
+            <description>Expert advice to guide your career path and professional development.</description>
+            <pubDate>Mon, 21 Jul 2024 10:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
